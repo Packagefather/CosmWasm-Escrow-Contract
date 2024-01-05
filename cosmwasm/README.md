@@ -51,8 +51,10 @@ cargo check
 git branch -M main
 git add .
 git commit -m 'Initial Commit'
-git remote add origin YOUR-GIT-URL
+git remote add origin https://github.com/Packagefather/CosmWasm-Escrow-Contract.git
 git push -u origin main
+
+master branch https://github.com/InjectiveLabs/CosmWasm101.git
 ```
 
 ## CI Support
